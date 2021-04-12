@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeed30c
-- 👀 I’m interested in compiuter science
-- 🌱 I’m currently learning
+- 👀 I’m interested in computer science
+- 🌱 I’m currently a student in CoE
 - 💞️ I’m looking to collaborate on python projects
 - 📫 salehisaeed30@outlook.com
 
